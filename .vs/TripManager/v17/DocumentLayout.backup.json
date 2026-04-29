@@ -3,72 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\bll\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|solutionrelative:bll\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\bll\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\dl\\api\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|solutionrelative:dl\\api\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\dl\\services\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|solutionrelative:dl\\services\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\bll\\api\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|solutionrelative:bll\\api\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\dl\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|solutionrelative:dl\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D72CBBC-905C-4CD5-AC73-74855F019BE7}|TripManager\\TripManager.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\tripmanager\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D72CBBC-905C-4CD5-AC73-74855F019BE7}|TripManager\\TripManager.csproj|solutionrelative:tripmanager\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0D72CBBC-905C-4CD5-AC73-74855F019BE7}|TripManager\\TripManager.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\tripmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D72CBBC-905C-4CD5-AC73-74855F019BE7}|TripManager\\TripManager.csproj|solutionrelative:tripmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\dl\\services\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|solutionrelative:dl\\services\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D72CBBC-905C-4CD5-AC73-74855F019BE7}|TripManager\\TripManager.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\tripmanager\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D72CBBC-905C-4CD5-AC73-74855F019BE7}|TripManager\\TripManager.csproj|solutionrelative:tripmanager\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\bll\\api\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|solutionrelative:bll\\api\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D72CBBC-905C-4CD5-AC73-74855F019BE7}|TripManager\\TripManager.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\tripmanager\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D72CBBC-905C-4CD5-AC73-74855F019BE7}|TripManager\\TripManager.csproj|solutionrelative:tripmanager\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\dl\\mongoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|solutionrelative:dl\\mongoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\bll\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|solutionrelative:bll\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\dl\\tripdbcontext.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|solutionrelative:dl\\tripdbcontext.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\bll\\exceptions\\exceptionsforstudebtandteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|solutionrelative:bll\\exceptions\\exceptionsforstudebtandteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D72CBBC-905C-4CD5-AC73-74855F019BE7}|TripManager\\TripManager.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\tripmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0D72CBBC-905C-4CD5-AC73-74855F019BE7}|TripManager\\TripManager.csproj|solutionrelative:tripmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\bll\\exceptions\\baseexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|solutionrelative:bll\\exceptions\\baseexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|solutionrelative:bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\bll\\api\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|solutionrelative:bll\\api\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\bll\\utils\\maputil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|solutionrelative:bll\\utils\\maputil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\dl\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|solutionrelative:dl\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\dl\\services\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|solutionrelative:dl\\services\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\dl\\tripdbcontext.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|solutionrelative:dl\\tripdbcontext.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\dl\\mongoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|solutionrelative:dl\\mongoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\dl\\services\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|solutionrelative:dl\\services\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\dl\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|solutionrelative:dl\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\dl\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|solutionrelative:dl\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\dl\\api\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|solutionrelative:dl\\api\\iteacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\dl\\api\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9D976A-809B-416E-836D-B0E1238CA9CB}|DL\\DL.csproj|solutionrelative:dl\\api\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\bll\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\teacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\bll\\dtos\\studentmonitordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\studentmonitordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\bll\\dtos\\locationupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\locationupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|c:\\users\\user\\downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\tripmanager\\bll\\api\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC104961-304F-4054-A330-61C4BAF2F1CA}|BLL\\BLL.csproj|solutionrelative:bll\\api\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,149 +102,162 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ITeacherRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\API\\ITeacherRepository.cs",
-              "RelativeDocumentMoniker": "DL\\API\\ITeacherRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\API\\ITeacherRepository.cs",
-              "RelativeToolTip": "DL\\API\\ITeacherRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\Services\\TeacherService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\Services\\TeacherService.cs",
+              "RelativeToolTip": "BLL\\Services\\TeacherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T07:36:46.641Z",
+              "WhenOpened": "2026-04-23T09:56:24.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TeacherDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\DTOs\\TeacherDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\TeacherDTO.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\DTOs\\TeacherDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\TeacherDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T15:51:48.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TeacherService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\Services\\TeacherService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\TeacherService.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\Services\\TeacherService.cs*",
-              "RelativeToolTip": "BLL\\Services\\TeacherService.cs*",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwDQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T15:51:48.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TeacherRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\Services\\TeacherRepository.cs",
-              "RelativeDocumentMoniker": "DL\\Services\\TeacherRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\Services\\TeacherRepository.cs",
-              "RelativeToolTip": "DL\\Services\\TeacherRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T16:08:20.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\DTOs\\StudentDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\StudentDTO.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\DTOs\\StudentDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\StudentDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T15:51:47.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ITeacherService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\API\\ITeacherService.cs",
-              "RelativeDocumentMoniker": "BLL\\API\\ITeacherService.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\API\\ITeacherService.cs",
-              "RelativeToolTip": "BLL\\API\\ITeacherService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T06:44:29.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "TeacherController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\TripManager\\Controllers\\TeacherController.cs",
               "RelativeDocumentMoniker": "TripManager\\Controllers\\TeacherController.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\TripManager\\Controllers\\TeacherController.cs",
-              "RelativeToolTip": "TripManager\\Controllers\\TeacherController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwCsAAABDAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\TripManager\\Controllers\\TeacherController.cs*",
+              "RelativeToolTip": "TripManager\\Controllers\\TeacherController.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvz4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T18:48:16.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\TripManager\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "TripManager\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\TripManager\\Controllers\\StudentsController.cs*",
+              "RelativeToolTip": "TripManager\\Controllers\\StudentsController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T14:17:46.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\TripManager\\Program.cs",
               "RelativeDocumentMoniker": "TripManager\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\TripManager\\Program.cs",
-              "RelativeToolTip": "TripManager\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\TripManager\\Program.cs*",
+              "RelativeToolTip": "TripManager\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxoAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T15:51:48.601Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\Models\\Teacher.cs",
-              "RelativeDocumentMoniker": "DL\\Models\\Teacher.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\Models\\Teacher.cs",
-              "RelativeToolTip": "DL\\Models\\Teacher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ExceptionsForStudebtAndTeacher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\Exceptions\\ExceptionsForStudebtAndTeacher.cs",
+              "RelativeDocumentMoniker": "BLL\\Exceptions\\ExceptionsForStudebtAndTeacher.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\Exceptions\\ExceptionsForStudebtAndTeacher.cs",
+              "RelativeToolTip": "BLL\\Exceptions\\ExceptionsForStudebtAndTeacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T08:26:29.111Z",
+              "WhenOpened": "2026-04-26T10:13:02.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\TripManager\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "TripManager\\Controllers\\StudentsController.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\TripManager\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "TripManager\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAsAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "BaseExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\Exceptions\\BaseExceptions.cs",
+              "RelativeDocumentMoniker": "BLL\\Exceptions\\BaseExceptions.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\Exceptions\\BaseExceptions.cs",
+              "RelativeToolTip": "BLL\\Exceptions\\BaseExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T15:51:48.818Z",
+              "WhenOpened": "2026-04-26T10:10:51.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\Services\\StudentService.cs",
+              "RelativeToolTip": "BLL\\Services\\StudentService.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAUwJMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:56:54.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\API\\IStudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\API\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\API\\IStudentService.cs",
+              "RelativeToolTip": "BLL\\API\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:56:18.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MapUtil.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\Utils\\MapUtil.cs",
+              "RelativeDocumentMoniker": "BLL\\Utils\\MapUtil.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\Utils\\MapUtil.cs",
+              "RelativeToolTip": "BLL\\Utils\\MapUtil.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T10:47:46.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DL\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\Models\\Student.cs",
+              "RelativeToolTip": "DL\\Models\\Student.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T14:00:32.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\Services\\StudentRepository.cs",
               "RelativeDocumentMoniker": "DL\\Services\\StudentRepository.cs",
               "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\Services\\StudentRepository.cs",
               "RelativeToolTip": "DL\\Services\\StudentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwDEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T15:51:47.547Z",
+              "WhenOpened": "2026-04-22T14:06:40.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TripDbContext.cs.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\TripDbContext.cs.cs",
+              "RelativeDocumentMoniker": "DL\\TripDbContext.cs.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\TripDbContext.cs.cs",
+              "RelativeToolTip": "DL\\TripDbContext.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:20:11.413Z",
               "EditorCaption": ""
             },
             {
@@ -231,74 +268,139 @@
               "RelativeDocumentMoniker": "DL\\MongoService.cs",
               "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\MongoService.cs",
               "RelativeToolTip": "DL\\MongoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T08:36:54.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\TripManager\\appsettings.json",
-              "RelativeDocumentMoniker": "TripManager\\appsettings.json",
-              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\TripManager\\appsettings.json",
-              "RelativeToolTip": "TripManager\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-21T08:21:44.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IStudentService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\API\\IStudentService.cs",
-              "RelativeDocumentMoniker": "BLL\\API\\IStudentService.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\API\\IStudentService.cs",
-              "RelativeToolTip": "BLL\\API\\IStudentService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T15:51:48.029Z",
+              "WhenOpened": "2026-04-26T13:01:17.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "TripDbContext.cs.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\TripDbContext.cs.cs",
-              "RelativeDocumentMoniker": "DL\\TripDbContext.cs.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\TripDbContext.cs.cs",
-              "RelativeToolTip": "DL\\TripDbContext.cs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\Services\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "DL\\Services\\TeacherRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\Services\\TeacherRepository.cs",
+              "RelativeToolTip": "DL\\Services\\TeacherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T08:39:40.923Z",
+              "WhenOpened": "2026-04-26T09:08:11.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "DL\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\Models\\Teacher.cs",
+              "RelativeToolTip": "DL\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:50:21.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\Services\\StudentService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\StudentService.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\Services\\StudentService.cs",
-              "RelativeToolTip": "BLL\\Services\\StudentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "DL\\Models\\Location.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\Models\\Location.cs",
+              "RelativeToolTip": "DL\\Models\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T15:51:31.687Z",
+              "WhenOpened": "2026-04-22T13:48:41.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "DL\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\Models\\Student.cs",
-              "RelativeToolTip": "DL\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Title": "ITeacherRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\API\\ITeacherRepository.cs",
+              "RelativeDocumentMoniker": "DL\\API\\ITeacherRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\API\\ITeacherRepository.cs",
+              "RelativeToolTip": "DL\\API\\ITeacherRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T08:44:23.658Z",
+              "WhenOpened": "2026-04-23T10:14:40.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\API\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "DL\\API\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\DL\\API\\IStudentRepository.cs",
+              "RelativeToolTip": "DL\\API\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T14:06:24.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TeacherDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\DTOs\\TeacherDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\TeacherDTO.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\DTOs\\TeacherDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\TeacherDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T09:57:48.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentMonitorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\DTOs\\StudentMonitorDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\StudentMonitorDTO.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\DTOs\\StudentMonitorDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\StudentMonitorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T11:44:54.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\StudentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:51:47.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LocationUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\DTOs\\LocationUpdateDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\LocationUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\DTOs\\LocationUpdateDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\LocationUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:52:25.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\API\\ITeacherService.cs",
+              "RelativeDocumentMoniker": "BLL\\API\\ITeacherService.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD\\TripManager\\BLL\\API\\ITeacherService.cs",
+              "RelativeToolTip": "BLL\\API\\ITeacherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T06:44:29.148Z",
               "EditorCaption": ""
             }
           ]
