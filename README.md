@@ -79,6 +79,8 @@
 *<img width="865" height="691" alt="image" src="https://github.com/user-attachments/assets/f0764975-cf2f-4383-9829-46b0d6ed49e3" />
 
 *<img width="865" height="676" alt="image" src="https://github.com/user-attachments/assets/25f348b5-1955-43d1-8e48-c3b067663f11" />
+<img width="981" height="701" alt="image" src="https://github.com/user-attachments/assets/7d392949-a1d1-4843-b745-fc8fbd49c1b1" />
+
 
 * דף רישום תלמידה
 *<img width="865" height="574" alt="image" src="https://github.com/user-attachments/assets/08c0230f-6756-491b-bdae-4a1a1ab13479" />
