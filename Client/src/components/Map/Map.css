@@ -1,0 +1,23 @@
+/* עיצוב תגיות הזיהוי שמעל האייקונים */
+.bootstrap-id-badge {
+    padding: 2px 6px !important;
+    font-size: 10px !important;
+    font-weight: 600 !important;
+    border-radius: 4px !important;
+    opacity: 0.9;
+}
+
+.leaflet-popup-content-wrapper { 
+    border-radius: 15px !important; 
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1) !important;
+}
+
+.leaflet-popup-close-button { 
+    right: auto !important; 
+    left: 8px !important; 
+    top: 8px !important;
+}
+
+.leaflet-tooltip-top:before {
+    border-top-color: transparent !important;
+}

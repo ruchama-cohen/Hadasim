@@ -1,0 +1,40 @@
+.login-wrapper {
+    min-height: 80vh;
+    direction: rtl;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-card {
+    width: 100%;
+    max-width: 420px;
+    border-radius: 20px !important;
+}
+
+.login-accent-bar {
+    height: 6px;
+    width: 60px;
+    background-color: #28a745;
+    margin: 0 auto 20px;
+    border-radius: 10px;
+}
+
+.custom-input:focus {
+    background-color: #fff !important;
+    box-shadow: 0 0 0 3px rgba(40, 167, 69, 0.2) !important;
+    border: 1px solid #28a745 !important;
+}
+
+.hover-lift {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.hover-lift:hover:not(:disabled) {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 15px rgba(40, 167, 69, 0.3) !important;
+}
+
+.hover-opacity:hover {
+    opacity: 0.8;
+}

@@ -1,0 +1,43 @@
+.register-teacher-wrapper {
+    background-color: #fdfcfb;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    direction: rtl;
+}
+
+.register-teacher-card {
+    border-radius: 20px !important;
+    padding: 2rem;
+    border: none !important;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+}
+
+.register-teacher-title {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    font-weight: bold;
+    color: #28a745;
+}
+
+.form-label-small {
+    font-weight: bold;
+    font-size: 0.875rem;
+}
+
+.btn-register-submit {
+    width: 100%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-weight: bold;
+    border-radius: 50px !important;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+}
+
+.btn-back-link {
+    width: 100%;
+    margin-top: 0.5rem;
+    text-decoration: none !important;
+    color: #6c757d !important;
+    font-size: 0.875rem;
+}
