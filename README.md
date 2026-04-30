@@ -73,21 +73,21 @@
 להלן צילומי מסך מתוך המערכת:
 
 * דף הבית
-* <img width="865" height="428" alt="image" src="https://github.com/user-attachments/assets/c420736f-e770-4eca-a013-d0032ff6a9df" />
+*<img width="865" height="428" alt="image" src="https://github.com/user-attachments/assets/c420736f-e770-4eca-a013-d0032ff6a9df" />
 
 *  דף רישום והתחברות למורה
 *<img width="865" height="691" alt="image" src="https://github.com/user-attachments/assets/f0764975-cf2f-4383-9829-46b0d6ed49e3" />
 
-*  <img width="865" height="676" alt="image" src="https://github.com/user-attachments/assets/25f348b5-1955-43d1-8e48-c3b067663f11" />
+*<img width="865" height="676" alt="image" src="https://github.com/user-attachments/assets/25f348b5-1955-43d1-8e48-c3b067663f11" />
 
 * דף רישום תלמידה
-* <img width="865" height="574" alt="image" src="https://github.com/user-attachments/assets/08c0230f-6756-491b-bdae-4a1a1ab13479" />
+*<img width="865" height="574" alt="image" src="https://github.com/user-attachments/assets/08c0230f-6756-491b-bdae-4a1a1ab13479" />
 
 * מפת המעקב המציגה למורה את מיקום תלמידותה , תצוגת תלמידות בטווח - איקון ירוק, תצוגת תלמידות מחוץ לטווח - איקון אדום, תצוגת המורה - איקון ירוק
-* <img width="865" height="407" alt="image" src="https://github.com/user-attachments/assets/db6818c5-b404-441b-b688-e0f2423b59cd" />
+*<img width="865" height="407" alt="image" src="https://github.com/user-attachments/assets/db6818c5-b404-441b-b688-e0f2423b59cd" />
 
 * מפת המעקב להורים איפה ביתם וחברותיה נמצאות בטיול
-* <img width="865" height="407" alt="image" src="https://github.com/user-attachments/assets/a2986e97-6d1f-4ce1-8174-623c6d5bab5d" />
+*<img width="865" height="407" alt="image" src="https://github.com/user-attachments/assets/a2986e97-6d1f-4ce1-8174-623c6d5bab5d" />
 
 ### איך מריצים את הפרויקט:
 
@@ -98,6 +98,14 @@ cd client
 להתקין תלויות:
 
 npm install
+
+פקודת ההרצה:
+npm start
+
+כתובת הדפדפן:
+
+
+http://localhost:3000/
 
 
 להיכנס לתיקיית השרת:
